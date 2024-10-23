@@ -4,8 +4,7 @@
 npm create astro@latest -- --template minimal
 ```
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/minimal/devcontainer.json)
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ojdon/astro-tailwind-template)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/lumenascend/myrunning.club-landing?devcontainer_path=.devcontainer/minimal/devcontainer.json)
 
 
 ## 🚀 Project Structure
